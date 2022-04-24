@@ -556,13 +556,7 @@ def onmessage(update,bot:ObigramClient):
 
         if '/start' in msgText:
             
-            msg = '🍜 Bot Draken Downloader iniciado ⛩\n\n'
-            msg+= '🔗 Enlaces soportados MEGA, GoogleDrive y Enlaces directos\n\n'
-            msg+= '❔ Como Descargar\n\n'
-            msg+= '1. Envía el enlace directo o comparte desde Telegram el archivo que quieres descargar.\n'
-            msg+= '2. Usa el TXT de descarga que se genera y los abres con el XDownloader\n\n'
-            msg+= '👩🏻‍💻Para saber los comandos solamente es poer el comando /help\n'
-            msg+= '🤖Para saber info del bot solamente es poer el comando /about'
+            msg = '🍜 Bot 1.3.5 en su version Ultra ha sido iniciado ⛩\n\n'
             bot.editMessageText(message,msg)
         elif '/files' == msgText and user_info['cloudtype']=='moodle':
              proxy = ProxyCloud.parse(user_info['proxy'])
