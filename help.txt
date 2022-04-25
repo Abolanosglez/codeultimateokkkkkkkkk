@@ -3,9 +3,7 @@ Bienvenido a mi bot de descarga
 
 💡 Como Descargar
 
-1. Envía el enlace directo o comparte desde Telegram el archivo que quieres descargar usando el bot @DirectLinkGeneratorbot.
-2. Ya terminada la descarga usar el TXT iniciar seción con la cuenta que se le dio y acceder a los planes de aprendizaje.
-3. Los comando para configurar el bot son:
+🧰 Los comando para configurar el bot son:
 
 /start ⛩Iniciar Bot⛩
 
@@ -43,14 +41,77 @@ Bienvenido a mi bot de descarga
 
 /cloud ☁️Cambia tipo (moodle o cloud)
 
-🚫Comandos de Administrador🚫
+———————————————-——-
+⚙️Spoporte De Urls y generar enlaces⚙️
+———————————————-——-
+💡Puede descargar desde:
+apkpure
+mega (Archivos y Carpetas)
+mediafire (Archivos)
+Youtube (Nota: Descargas un poco lentas)
+Telegram (Archivos reenviados)
 
-/add ✳️Permite acceso a un usuario
-/admin ✳️Poner de admin a un usuario
-/preview ✳️Para que un usuario pueda ver el bot pero sin poder hacer o subir contenido
-/ban 🚫Ban vete la tu casa chaval
-/db 🗂Obtener base de datos
+🔗Pasos para generar los link de descarga con el bot
 
-🔗 Enlaces soportados Youtube, y Enlaces directos
+1/ isiciar uno de estos bot 
+@Link4FilesBot
+@tg_file_link_bot u otro que encuentres hay varios
+Y unirse al canal de el bot 
+2/Buscar el video/apk etc.. lo q quiere descargar y reenviarlo(deje presionado y use el botón reenviar y luego seleccione el chat a reenviar) a uno de esos bot
+Para reenviar los videos al bot solamente tocas al lado del video/apk etc.. y tocas (reenviar) en las opciones luego seleccionas el bot y renvias
+3/ el bot le dara un link el cual usted debe copiar y luego pegar en su bot de descarga(este) y el bot comensara a trabajar
+📄Nota: Desde los demás sitios soportados o enlaces de descarga directa simplemente envié el enlace en este bot y listo
+———————————————-——-
+📑Configurando el bot📑
+———————————————-——-
+-Al entrar en el bot les va a pedir su cuenta de moodle, antes especifique su host (ejemplo https://moodle.uclv.edu.cu/) y depues configure su cuenta enviandole al bot el comando /account  seguido myusuario,contraseña .
+-Puede cambiar el tamaño de los archivos comprimidos enviandole al bot el comando /zips tamaño
+Para configurar el bot solo tienes q seguir los siquierntes pasos
 
-✳️Contactar con el Admin en caso de problemas✳️
+/host
+Este comando es para configurar la nuve q usaras ejemplo
+/host https://eduvirtual.uho.edu.cu/
+
+
+/acc
+Este comando es para configurar el user y la contraseña de la nuve q usaras ejemplo
+/acc usuario,contraseña
+
+/zips 
+Este comando es para configurar el tamaño de cada parte q el bot enviara dependiendo de la nuve ejemplo
+/zip 350
+
+
+/repo3 o 4 es para q la nuve t de el txt
+
+-Nota: Las subidas no se cancelan-
+———————————————-——-
+📑Ejemplo Proceso Terminado y borrar nube📑
+———————————————-——-
+》Proceso Finalizado
+》Nombre: Halo.S01e03-(dual-latino)(1080p).mp4
+ (http://miui_limeglobal_Halo.S01e03-(dual-latino)(1080p).mp4/) (http://miui_limeglobal_Halo.S01e03-(dual-latino)(1080p).mp4/)》Tamaño Total: 414MiB
+》Tamaño Partes: 2.0GiB
+》Partes Subidas: 1/1
+
+》Archivo: /file_10
+》TxT: /txt_10
+》Borrar Archivo: /del_10
+
+-Para Extraer EL/Los Enlaces del archivo basta con tocar /file_#de lo que quieres -
+-Para Extraer EL/Los Enlaces del archivo en un txt basta con tocar /txt_10 -
+-Para Borrar EL archivo basta con tocar /del_10 - /del_0 bórra el primer archivo de la nube si quiere vaciar la repita este comando hasta q no quede nada
+-Nota: En Caso de q extraiga un archivo q no es envie el comando /files y espera a q salga la lista de arcvhivos-
+———————————————-——-
+📑Para descargar usando xdownloader📑
+———————————————-———————————————-
+Los pasos para descargar de la eduvirtual
+
+1 Al finalizar la subida tocas el link q te llebara a la nuve el cual te dira q el archivo no existe 
+
+2 tocar (continuar) y luego poner usuario y contraseña de la cuenta y entrar
+
+3 una ves dentro volver a tocar el link nuevamente en telegram (el q te dio el bot) y comensara la descarga 
+
+* Si algunas nubes y moodles no necesitan contraseña así q puedes descargar directamente
+Eso es todo
